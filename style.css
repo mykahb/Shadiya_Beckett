@@ -80,7 +80,7 @@ a { color: var(--accent); }
 .project-media-glove    { background-image: url('Glove.png'); }
 .project-media-ecg      { background-image: url('ECG_signal.png'); }
 .project-media-filters  { background-image: url('Audio-filter.png'); }
-.project-media-microbit { background-image: url('Micro:bit_car.jpeg'); }
+.project-media-microbit { background-image: url('Microbit_car.jpeg'); }
 .project-media-project5 { background-image: url('Project5.png'); }
 .project-media-project6 { background-image: url('Project6.png'); }
 .project-points { list-style: disc; padding-left: 20px; }
