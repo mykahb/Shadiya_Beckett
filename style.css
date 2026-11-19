@@ -78,8 +78,8 @@ a { color: var(--accent); }
 }
 /* One background per project: put each image filename here */
 .project-media-glove    { background-image: url('Glove.png'); }
-.project-media-ecg      { background-image: url('ECG_signal.jpeg'); }
-.project-media-filters  { background-image: url('Audio_filter.png'); }
+.project-media-ecg      { background-image: url('ECG_signal.png'); }
+.project-media-filters  { background-image: url('Audio-filter.png'); }
 .project-media-microbit { background-image: url('Microbit_car.jpeg'); }
 .project-media-project5 { background-image: url('Project5.jpeg'); }
 .project-media-project6 { background-image: url('Project6.jpeg'); }
