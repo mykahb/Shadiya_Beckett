@@ -80,7 +80,7 @@ a { color: var(--accent); }
 .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 80px; }
 .timeline li { padding-bottom: 24px; margin-bottom: 24px; border-bottom: 1px solid var(--rule); }
 .degree { font-weight: 600; margin-bottom: 4px; }
-.subhead { font-family: inherit; font-size: 15px; color: var(--muted); margin-top: 28px; }
+.subhead { font-family: inherit; font-size: 15px; color: var(--muted); margin-top: 28px;  margin-left: 40px;}
 .chips { display: flex; flex-wrap: wrap; gap: 8px; }
 .chips li { background: #fff; border: 1px solid var(--rule); border-radius: 4px; padding: 6px 12px; font-size: 15px; }
 .resume-box { display: flex; justify-content: space-between; align-items: center; gap: 16px; margin-top: 32px; padding: 24px; border: 1.5px dashed var(--ink); border-radius: 6px; }
