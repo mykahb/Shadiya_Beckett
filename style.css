@@ -71,8 +71,8 @@ a { color: var(--accent); }
 .project-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
 .project { display: flex; flex-direction: column; gap: 14px; background: #fff; border: 1px solid var(--rule); border-radius: 6px; padding: 20px; }
 /* Shared look for every project image box */
-.project-media, .project-media-glove, .project-media-ecg, .project-media-filters,
-.project-media-microbit, .project-media-project5, .project-media-project6 {
+.project-media-glove, .project-media-ecg, .project-media-filters,
+.project-media-microbit, .project-media-piano, .project-media-energy {
   aspect-ratio: 4 / 3; background: #E9E6DD center / cover no-repeat; border-radius: 4px;
   display: grid; place-items: center; text-align: center; padding: 16px; color: var(--muted); font-size: 14px;
 }
@@ -81,8 +81,8 @@ a { color: var(--accent); }
 .project-media-ecg      { background-image: url('ECG_signal.png'); }
 .project-media-filters  { background-image: url('Audio-filter.png'); }
 .project-media-microbit { background-image: url('Microbit_car.jpeg'); }
-.project-media-project5 { background-image: url('Project5.png'); }
-.project-media-project6 { background-image: url('Project6.png'); }
+.project-media-piano    { background-image: url('piano.png'); }
+.project-media-energy   { background-image: url('energy-harvesting.png'); }
 .project-points { list-style: disc; padding-left: 20px; }
 .project .text-link { margin-top: auto; font-weight: 600; }
 .tags { display: flex; flex-wrap: wrap; gap: 6px; font-size: 12px; }
