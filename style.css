@@ -42,6 +42,7 @@ a { color: var(--accent); }
 .hero h1 { font-size: clamp(40px, 6vw, 72px); }
 .kicker, .status, .dates, .contact-label, .tags, .readout, .site-footer { font-family: var(--mono); font-size: 14px; }
 .kicker { color: var(--accent); }
+.headshot {background-image: url('Headshot.jpeg'); background-size: cover; background-position: center; color: transparent; -webkit-background-clip: text; background-clip: text; }
 .lead { font-size: 19px; }
 .hero-actions { display: flex; gap: 12px; margin: 24px 0; }
 .status-dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #2E8B57; margin-right: 8px; }
