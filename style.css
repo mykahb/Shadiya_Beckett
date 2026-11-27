@@ -79,7 +79,7 @@ a { color: var(--accent); }
 }
 /* One background per project: put each image filename here */
 .project-media-glove    { background-image: url('Glove.png'); }
-.project-media-ecg      { background-image: url('ECG_signal.png'); }
+.project-media-ecg      { background-image: url('ECG.png'); }
 .project-media-filters  { background-image: url('Audio-filter.png'); }
 .project-media-microbit { background-image: url('Microbit_car.jpeg'); }
 .project-media-piano    { background-image: url('piano.png'); }
